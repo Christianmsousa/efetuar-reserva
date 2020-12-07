@@ -2,11 +2,11 @@
 
 ### Imagens
 
-<img src="https://i.imgur.com/Ip4QfLy.png" width="700px;"/>
+<img src="https://i.imgur.com/Ip4QfLy.png" width="500px;"/>
 
 ---
 
-<img src="https://i.imgur.com/njmEQKq.png" width="700px;"/>
+<img src="https://i.imgur.com/njmEQKq.png" width="500px;"/>
 
 
 ### Christian Marçal 👨‍💻
